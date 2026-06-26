@@ -63,9 +63,9 @@ Model terbaik berdasarkan hasil evaluasi adalah **Random Forest**.
 Model Random Forest berhasil memenuhi kriteria sukses evaluasi minimal 80%. Dengan accuracy sebesar 91.23%, model dapat digunakan untuk membantu memprediksi status pinjaman pelanggan berdasarkan data keuangan dan profil pelanggan.
 
 ## Link Project
-- Google Sites: [Isi link Google Sites]
-- YouTube Presentasi: [Isi link YouTube]
-- Repository GitHub: [Isi link GitHub]
+- Google Sites:(https://sites.google.com/view/portofolio-rakha-shidqi/project/deployment)]
+- YouTube Presentasi: (https://youtu.be/aQSDGpBS5jo?si=OY6Vndg5evbcoW6l)]
+
 
 ## Cara Menjalankan Notebook
 1. Pastikan Python dan Jupyter Notebook/Google Colab sudah tersedia.
